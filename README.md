@@ -27,6 +27,7 @@ I'm a passionate **AI/ML Enthusiast**, **Full-Stack Developer**, and **Tech Entr
 
 ### 3️⃣ Personal Blog Platform
 🔹 A minimalistic and customizable blogging system built with Next.js and Markdown.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/88961597-b681-488e-ae64-5221edd9a037/deploy-status)](https://app.netlify.com/sites/nathishwardev/deploys)
 
 ## 🌍 Live Portfolio
 Check out my portfolio live: **[🔗 My Website](https://yourportfolio.com)**
